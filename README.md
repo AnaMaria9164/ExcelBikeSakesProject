@@ -27,16 +27,16 @@ A dashboard was designed to provide a visual summary of the data, featuring inte
 ## Files Overview
 
 - `bike_buyers.xlsx`: Initial raw data file.
-- `working sheet.xlsx`: Transformed data with adjustments and categorizations.
-- `pivot tables.xlsx`: Excel file containing pivot tables for analysis.
-- `dashboard.xlsx`: Excel file housing the interactive dashboard with slicers.
+- `Working Sheet.xlsx`: Transformed data with adjustments and categorizations.
+- `Pivot Table.xlsx`: Excel file containing pivot tables for analysis.
+- `Dashboard.xlsx`: Excel file housing the interactive dashboard with slicers.
 
 ## How to Use
 
 1. Clone this repository to your local machine.
-2. Open `transformed_data.xlsx` to view the cleaned and transformed dataset.
-3. Explore `pivot_tables.xlsx` to delve into the detailed analysis provided by pivot tables.
-4. Access `dashboard.xlsx` to interact with the dashboard and slicers for dynamic visualization.
+2. Open `Working Sheet.xlsx` to view the cleaned and transformed dataset.
+3. Explore `Pivot_Table.xlsx` to delve into the detailed analysis provided by pivot tables.
+4. Access `Dashboard.xlsx` to interact with the dashboard and slicers for dynamic visualization.
 
 ## Acknowledgements
 
